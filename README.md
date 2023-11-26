@@ -1,1 +1,1 @@
-# loops-funcsts-conditonals
+# loops-functs-conditonals
